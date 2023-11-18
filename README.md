@@ -1,17 +1,17 @@
 # Satellite-Command-System-Programming-Exercise
-# Problem Statement
+## Problem Statement
 Develop a Satellite Command System that simulates controlling a satellite in orbit.
 
-# Objective
+## Objective
 Develop a Satellite Command System for simulating satellite control in orbit.
 
-# Requirements
+## Requirements
 Initialize satellite
 Rotate
 Activate/Deactivate Solar Panels
 Collect Data
 
-# Initial State
+## Initial State
 Orientation: "North"
 Solar Panels: "Inactive"
 Data Collected: 0
