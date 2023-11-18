@@ -22,6 +22,7 @@ Data Collected: 0
 	Avoid unnecessary rotations we can add a check in ‘collectDatacommand’ to verify if current orientation is desired one.
 	If not in desired position rotate it and check if panel is active 
 	else check the panel status and proceed with the further commands.
+ 
 2.What if command fail temporarily due to external factors?
 	Defensive programming: If an exception occurs during the execution of the command, the system will attempt to retry the operation for a certain number of times before giving up.
  
