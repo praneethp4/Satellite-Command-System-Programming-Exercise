@@ -17,6 +17,16 @@ Orientation: "North"
 Solar Panels: "Inactive"
 Data Collected: 0
 
+## Approach
+Approach 1
+![image](https://github.com/praneethp4/Satellite-Command-System-Programming-Exercise/assets/123055147/5cc3ac45-eda8-4a3a-9ecf-4aba74271087)
+
+Approach 2
+![image](https://github.com/praneethp4/Satellite-Command-System-Programming-Exercise/assets/123055147/1b08a719-d6d8-49aa-98de-dda762041fd8)
+
+
+
+
 ## Additional discussion points
 1.What if the satellite is already in desired position?
 	Avoid unnecessary rotations we can add a check in ‘collectDatacommand’ to verify if current orientation is desired one.
